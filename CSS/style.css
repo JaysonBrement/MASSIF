@@ -6,7 +6,7 @@
 }
     
     body{
-        height: 3700px;
+        height: 220px;
         width: 99.8vw;
         background-color: ;
         
@@ -14,17 +14,17 @@
     .supercontainer{
         display: flex;
         flex-direction: column;
-        height: 3700px;
+        height: 200px;
         width: 99.8vw;
     }
     
         .container{
-            background-color: aqua;
-            height: 220vw;
+            
+            height: 200vw;
             width: 99.8vw;
         }
             header{
-                background-color: blue;
+                
                 width:100vw;
                 height:35vw;
                 width: 99.8vw;
@@ -37,19 +37,19 @@
                 
             }
                 header .hopusher1{
-                    background-color: black;
+                    
                     height: 10vw;
                 }
                 header .hopusher2{
-                    background-color: black;
+                    
                     height:1vw
                 }
                 header .hopusher3{
-                    background-color: black;
+                    
                     height:3vw
                 }
                 header .hopusher4{
-                    background-color: black;
+                    
                     height: 3vw;
                     
                 }
@@ -64,6 +64,7 @@
                     }
                     header .homenu .menupt2{
                         margin-left: 18vw;
+                        color:white
                     }
                         header .homenu .menupt2 ul li{
                             display: inline;
@@ -88,7 +89,7 @@
                 }
 
             main{
-                background-color: red;
+                
                 width: 99.8vw;
                 height: 130vw;
                 display: flex;
@@ -141,8 +142,8 @@
                     }
                 .chambre{
                     width: 99.8vw;
-                    height: 35vw;
-                    background-color: purple;
+                    height: 40vw;
+                    
                     
                 }
                     .desc{
@@ -164,11 +165,12 @@
                             margin-top: 1vw;
                         }
                     .ctnimg{
-                        background-color: brown;
+                        
                         display: flex;
                         justify-content: center;
                         align-items: center;
                         flex-direction: row;
+                        margin-top: 3vw;
                         
                     }
                         .ctnimg .pusher1{
@@ -187,7 +189,7 @@
                             height: 20vw;
                         }
                     .ctntitle{
-                        background-color: blueviolet;
+                        
                         display: flex;
                         flex-direction: row;
                         justify-content: space-around;
@@ -288,7 +290,7 @@
                         align-items: center;
                     }
                         footer .desc{
-
+                            
                         }
                             footer .desc h3{
                                 text-align: center;
@@ -303,6 +305,7 @@
                             display: flex;
                             justify-content: center;
                             margin-top: 5vw;
+                            
                         }
                             footer .tile .pusher1{
 
